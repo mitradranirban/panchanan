@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="bn_r_nukta" format="2">
-  <advance width="1315"/>
-  <outline>
-    <component base="bn_ba"/>
-    <component base="bn_nukta" xOffset="-115.0" yOffset="461.0"/>
-    <component base="bn_nukta" xOffset="3.0"/>
-  </outline>
-</glyph>

@@ -1,21 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_currency16" format="2">
-  <advance height="1000" width="1065"/>
+  <advance width="1065"/>
   <unicode hex="09F9"/>
   <outline>
     <contour>
-      <point x="384.708984375" y="863.599609375" type="curve" smooth="yes"/>
-      <point x="518.842773438" y="1006.35644531"/>
-      <point x="765.599609375" y="908.400390625"/>
-      <point x="820.0" y="690.799804688" type="curve" smooth="yes"/>
-      <point x="837.599609375" y="620.400390625"/>
-      <point x="825.599609375" y="590.504882812"/>
-      <point x="755.200195312" y="529.368164062" type="curve" smooth="yes"/>
-      <point x="643.200195312" y="432.10546875"/>
-      <point x="402.806640625" y="425.310546875"/>
-      <point x="353.002929688" y="518.0" type="curve" smooth="yes"/>
-      <point x="297.982421875" y="620.400390625"/>
-      <point x="313.323242188" y="787.625976562"/>
+      <point x="385" y="864" type="curve" smooth="yes"/>
+      <point x="428" y="910"/>
+      <point x="483" y="931"/>
+      <point x="540" y="931" type="curve" smooth="yes"/>
+      <point x="659" y="931"/>
+      <point x="783" y="839"/>
+      <point x="820" y="691" type="curve" smooth="yes"/>
+      <point x="825" y="673"/>
+      <point x="827" y="657"/>
+      <point x="827" y="643" type="curve" smooth="yes"/>
+      <point x="827" y="603"/>
+      <point x="807" y="574"/>
+      <point x="755" y="529" type="curve" smooth="yes"/>
+      <point x="696" y="478"/>
+      <point x="602" y="452"/>
+      <point x="519" y="452" type="curve" smooth="yes"/>
+      <point x="443" y="452"/>
+      <point x="377" y="474"/>
+      <point x="353" y="518" type="curve" smooth="yes"/>
+      <point x="331" y="559"/>
+      <point x="320" y="611"/>
+      <point x="320" y="664" type="curve" smooth="yes"/>
+      <point x="320" y="741"/>
+      <point x="343" y="819"/>
     </contour>
   </outline>
 </glyph>

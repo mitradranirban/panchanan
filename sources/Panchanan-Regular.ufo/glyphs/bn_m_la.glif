@@ -1,34 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_m_la" format="2">
-  <advance height="1000" width="1189"/>
-  <outline>
-    <contour>
-      <point x="402.0" y="168.0" type="move" smooth="yes"/>
-      <point x="391.0" y="150.0"/>
-      <point x="367.0" y="139.0"/>
-      <point x="341.0" y="139.0" type="curve" smooth="yes"/>
-      <point x="288.0" y="139.0"/>
-      <point x="198.0" y="226.0"/>
-      <point x="198.0" y="314.0" type="curve" smooth="yes"/>
-      <point x="198.0" y="426.0"/>
-      <point x="287.0" y="519.0"/>
-      <point x="399.0" y="519.0" type="curve" smooth="yes"/>
-      <point x="498.0" y="519.0"/>
-      <point x="525.0" y="407.0"/>
-      <point x="580.0" y="346.0" type="curve"/>
-      <point x="630.0" y="395.0"/>
-      <point x="633.0" y="519.0"/>
-      <point x="732.0" y="519.0" type="curve" smooth="yes"/>
-      <point x="789.0" y="519.0"/>
-      <point x="837.0" y="427.0"/>
-      <point x="849.0" y="385.0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="857.0" y="0.0" type="move"/>
-      <point x="857.0" y="123.0"/>
-      <point x="857.0" y="756.0"/>
-      <point x="857.0" y="756.0" type="curve"/>
-    </contour>
-    <component base="bn_small_ma"/>
-  </outline>
+  <advance width="1189"/>
 </glyph>

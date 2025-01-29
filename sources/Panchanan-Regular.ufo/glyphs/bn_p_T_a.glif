@@ -1,28 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_p_Ta" format="2">
   <advance width="1743"/>
-  <outline>
-    <contour>
-      <point x="322.0" y="590.0" type="move"/>
-      <point x="429.0" y="780.0"/>
-      <point x="595.0" y="989.0"/>
-      <point x="768.0" y="989.0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="132.0" y="911.0" type="move"/>
-      <point x="206.0" y="911.0"/>
-      <point x="349.0" y="830.0"/>
-      <point x="397.0" y="714.0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="106.0" y="859.0" type="move"/>
-      <point x="170.0" y="1013.0"/>
-      <point x="316.0" y="1206.0"/>
-      <point x="449.0" y="1206.0" type="curve" smooth="yes"/>
-      <point x="621.0" y="1206.0"/>
-      <point x="782.0" y="985.0"/>
-      <point x="853.0" y="856.0" type="curve"/>
-    </contour>
-    <component base="bn_Ta" xOffset="603.0"/>
-  </outline>
 </glyph>

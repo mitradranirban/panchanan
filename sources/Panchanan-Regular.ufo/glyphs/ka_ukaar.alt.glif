@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ka_ukaar.alt" format="2">
-  <advance height="1000" width="1755"/>
-  <outline>
-    <component base="bn_ka"/>
-    <component base="bn_ukaar" xOffset="1709.0" yOffset="-132.0"/>
-  </outline>
-</glyph>

@@ -1,32 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>ascender</key>
-    <integer>1638</integer>
-    <key>copyright</key>
-    <string>Copyright 2025 Panchanan Project Authors (github.com/mitradranirban/panchanan)</string>
-    <key>descender</key>
-    <integer>-410</integer>
     <key>familyName</key>
     <string>Panchanan</string>
-    <key>guidelines</key>
-    <array>
-      <dict>
-        <key>name</key>
-        <string>bottom-matra</string>
-        <key>y</key>
-        <real>1209.0</real>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>top-matra</string>
-        <key>y</key>
-        <real>1455.0</real>
-      </dict>
-    </array>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>Panchanan Regular</string>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright 2025 Panchanan Project Authors (github.com/mitradranirban/panchanan)</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>descender</key>
+    <integer>-410</integer>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <real>0</real>
     <key>openTypeHeadCreated</key>
     <string>2006/08/20 20:08:58</string>
     <key>openTypeHheaAscender</key>
@@ -35,38 +30,27 @@
     <integer>-1260</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameDescription</key>
-    <string>Digital Revival of the First Bengali Typeface Created by Panchanan Karmakar </string>
     <key>openTypeNameDesigner</key>
     <string>Panchanan Karmakar</string>
     <key>openTypeNameDesignerURL</key>
     <string>https://github.com/mitradranirban</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Dr Anirban Mitra</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://fonts.atipra.in</string>
     <key>openTypeNameLicense</key>
     <string>Copyright (c) 2025, Dr Anirban Mitra; This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is copied available with a FAQ at:
 http://openfontlicense.org</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeNameManufacturer</key>
-    <string>Dr Anirban Mitra</string>
-    <key>openTypeNameManufacturerURL</key>
-    <string>https://fonts.atipra.in</string>
-    <key>openTypeNameRecords</key>
-    <array>
-      <dict>
-        <key>encodingID</key>
-        <integer>1</integer>
-        <key>languageID</key>
-        <integer>1093</integer>
-        <key>nameID</key>
-        <integer>19</integer>
-        <key>platformID</key>
-        <integer>3</integer>
-        <key>string</key>
-        <string>বাংলা</string>
-      </dict>
-    </array>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.001</string>
     <key>openTypeNameUniqueID</key>
     <string>Fontforge : Panchanan</string>
+    <key>openTypeNameDescription</key>
+    <string>Digital Revival of the First Bengali Typeface Created by Panchanan Karmakar </string>
+    <key>openTypeNameSampleText</key>
+    <string>বাংলা</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -80,9 +64,16 @@ http://openfontlicense.org</string>
       <integer>0</integer>
       <integer>0</integer>
     </array>
-    <key>openTypeOS2Selection</key>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>500</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>anir</string>
+    <key>openTypeOS2FamilyClass</key>
     <array>
-      <integer>7</integer>
+      <integer>0</integer>
+      <integer>0</integer>
     </array>
     <key>openTypeOS2Type</key>
     <array/>
@@ -92,37 +83,81 @@ http://openfontlicense.org</string>
     <integer>-1260</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>anir</string>
-    <key>openTypeOS2WeightClass</key>
-    <integer>500</integer>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>2183</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>1260</integer>
-    <key>openTypeVheaVertTypoLineGap</key>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>1433</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
     <integer>0</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>286</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>1433</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>983</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>102</integer>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>530</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>15</integer>
+      <integer>16</integer>
+      <integer>31</integer>
+      <integer>45</integer>
+    </array>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
     <key>postscriptFontName</key>
     <string>Panchanan-Regular</string>
     <key>postscriptFullName</key>
     <string>Panchanan Regular</string>
-    <key>postscriptSlantAngle</key>
-    <real>0.0</real>
-    <key>postscriptUnderlinePosition</key>
-    <real>-154.0</real>
-    <key>postscriptUnderlineThickness</key>
-    <real>102.0</real>
     <key>postscriptWeightName</key>
     <string>Regular</string>
-    <key>styleName</key>
-    <string>Regular</string>
-    <key>unitsPerEm</key>
-    <integer>2048</integer>
-    <key>versionMajor</key>
+    <key>postscriptUnderlineThickness</key>
+    <integer>102</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-205</integer>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>143</integer>
+      <integer>149</integer>
+      <integer>157</integer>
+      <integer>167</integer>
+      <integer>201</integer>
+      <integer>205</integer>
+      <integer>214</integer>
+      <integer>219</integer>
+      <integer>224</integer>
+      <integer>237</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>99</integer>
+      <integer>127</integer>
+      <integer>134</integer>
+      <integer>146</integer>
+      <integer>157</integer>
+      <integer>172</integer>
+      <integer>213</integer>
+      <integer>218</integer>
+      <integer>234</integer>
+      <integer>243</integer>
+    </array>
+    <key>postscriptBlueShift</key>
     <integer>0</integer>
-    <key>versionMinor</key>
-    <integer>1</integer>
+    <key>guidelines</key>
+    <array/>
   </dict>
 </plist>
