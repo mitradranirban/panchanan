@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_r_ukaar" format="2">
+  <advance height="1000" width="1431"/>
+  <outline>
+    <component base="bn_ra"/>
+    <component base="bn_post_ukaar" xOffset="850.0"/>
+  </outline>
+</glyph>

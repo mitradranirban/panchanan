@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_half_jha" format="2">
+  <advance width="837"/>
+  <outline>
+    <contour>
+      <point x="960.0" y="1206.0" type="move"/>
+      <point x="835.0" y="1206.0" type="line"/>
+      <point x="835.0" y="508.0" type="line"/>
+      <point x="785.0" y="573.0"/>
+      <point x="718.0" y="646.0"/>
+      <point x="620.0" y="704.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="606.0" y="394.0" type="move" smooth="yes"/>
+      <point x="551.0" y="508.0"/>
+      <point x="348.0" y="691.0"/>
+      <point x="194.0" y="742.0" type="curve"/>
+      <point x="158.0" y="765.0"/>
+      <point x="125.0" y="792.0"/>
+      <point x="104.0" y="831.0" type="curve"/>
+      <point x="206.0" y="898.0"/>
+      <point x="553.0" y="1089.0"/>
+      <point x="606.0" y="1123.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="606.0" y="359.0" type="move"/>
+      <point x="606.0" y="508.0"/>
+      <point x="606.0" y="1024.0"/>
+      <point x="606.0" y="1206.0" type="curve"/>
+      <point x="474.0" y="1206.0"/>
+      <point x="4.0" y="1206.0"/>
+      <point x="4.0" y="1206.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

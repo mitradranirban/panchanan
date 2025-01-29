@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_half_asamiba" format="2">
+  <advance width="644"/>
+  <outline>
+    <contour>
+      <point x="390.0" y="623.0" type="line"/>
+      <point x="856.0" y="307.0" type="line"/>
+      <point x="856.0" y="461.0" type="line"/>
+      <point x="503.0" y="696.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="1152.0" type="line"/>
+      <point x="0.0" y="1264.0" type="line"/>
+      <point x="1222.0" y="1264.0" type="line"/>
+      <point x="1222.0" y="1152.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1002.0" y="0.0" type="line"/>
+      <point x="866.0" y="86.0" type="line"/>
+      <point x="706.0" y="262.0"/>
+      <point x="460.0" y="431.0"/>
+      <point x="212.0" y="517.0" type="curve"/>
+      <point x="124.0" y="662.0" type="line"/>
+      <point x="848.0" y="1134.0" type="line"/>
+      <point x="848.0" y="1152.0" type="line"/>
+      <point x="1002.0" y="1152.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="856.0" y="951.0" type="line"/>
+      <point x="598.0" y="773.0" type="line"/>
+      <point x="856.0" y="598.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

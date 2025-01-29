@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_r_rikaar" format="2">
+  <advance height="1000" width="1583"/>
+  <outline>
+    <component base="bn_ri" xOffset="-51.0"/>
+    <component base="bn_reph" xOffset="1493.0" yOffset="-141.0"/>
+  </outline>
+</glyph>

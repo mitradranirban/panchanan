@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_m_ta" format="2">
+  <advance height="1000" width="1194"/>
+  <outline>
+    <component base="bn_small_ma"/>
+    <component base="bn_small_ta" xOffset="-190.0" yOffset="-410.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_j_ra" format="2">
+  <advance height="1000" width="1566"/>
+  <outline>
+    <component base="bn_ja"/>
+    <component base="bn_ra_phala" xOffset="2085.0" yOffset="515.0"/>
+  </outline>
+</glyph>

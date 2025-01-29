@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_ch_cha" format="2">
+  <advance width="1560"/>
+  <outline>
+    <contour>
+      <point x="515.25" y="1250.25195312" type="curve" smooth="yes"/>
+      <point x="358.537109375" y="1250.95019531"/>
+      <point x="291.375" y="1242.0703125"/>
+      <point x="291.375" y="1220.65039062" type="curve" smooth="yes"/>
+      <point x="291.375" y="1185.30273438"/>
+      <point x="410.775390625" y="1085.5"/>
+      <point x="453.0625" y="1085.5" type="curve" smooth="yes"/>
+      <point x="489.198242188" y="1085.5"/>
+      <point x="602.726873447" y="960.549577215"/>
+      <point x="624.513671875" y="896.799804688" type="curve" smooth="yes"/>
+      <point x="667.908203125" y="769.82421875"/>
+      <point x="348.587757163" y="518.814112094"/>
+      <point x="211.775390625" y="572.35546875" type="curve" smooth="yes"/>
+      <point x="97.177734375" y="617.203125"/>
+      <point x="79.9375" y="667.299804688"/>
+      <point x="79.9375" y="955.450195312" type="curve" smooth="yes"/>
+      <point x="79.9375" y="1218.09960938"/>
+      <point x="78.3181581212" y="1226.00163959"/>
+      <point x="22.724609375" y="1234.67480469" type="curve" smooth="yes"/>
+      <point x="-27.43359375" y="1242.5"/>
+      <point x="-33.5681488692" y="1255.07525673"/>
+      <point x="-27.025390625" y="1336.67480469" type="curve" smooth="yes"/>
+      <point x="-19.5625" y="1429.75" type="line"/>
+      <point x="550.0" y="1440.0" type="line" smooth="yes"/>
+      <point x="672.0" y="1442.0"/>
+      <point x="801.312499324" y="1248.97738722"/>
+    </contour>
+    <contour>
+      <point x="373.182617188" y="996.25" type="curve" smooth="yes"/>
+      <point x="334.416992188" y="1044.70019531"/>
+      <point x="284.607405021" y="1083.51211963"/>
+      <point x="260.28125" y="1084.22460938" type="curve" smooth="yes"/>
+      <point x="224.004882812" y="1085.28710938"/>
+      <point x="216.75" y="1062.54980469"/>
+      <point x="216.75" y="947.799804688" type="curve" smooth="yes"/>
+      <point x="216.75" y="797.349609375"/>
+      <point x="248.15055405" y="763.669501939"/>
+      <point x="351.075195312" y="803.724609375" type="curve" smooth="yes"/>
+      <point x="441.439453125" y="838.891601562"/>
+      <point x="448.673676518" y="901.89948795"/>
+    </contour>
+    <component base="bn_cha" xOffset="463.0"/>
+  </outline>
+</glyph>

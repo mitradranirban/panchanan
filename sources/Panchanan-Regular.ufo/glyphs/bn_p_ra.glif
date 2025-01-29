@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_p_ra" format="2">
+  <advance width="1308"/>
+  <outline>
+    <contour>
+      <point x="1057.0" y="-32.0" type="move"/>
+      <point x="1000.0" y="89.0"/>
+      <point x="928.0" y="279.0"/>
+      <point x="760.0" y="279.0" type="curve" smooth="yes"/>
+      <point x="612.0" y="279.0"/>
+      <point x="475.0" y="184.0"/>
+      <point x="355.0" y="184.0" type="curve" smooth="yes"/>
+      <point x="253.0" y="184.0"/>
+      <point x="165.0" y="234.0"/>
+      <point x="105.0" y="354.0" type="curve" smooth="yes"/>
+      <point x="39.0" y="486.0"/>
+      <point x="35.0" y="584.0"/>
+      <point x="35.0" y="784.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="465.0" y="520.0" type="move"/>
+      <point x="583.0" y="731.0"/>
+      <point x="768.0" y="963.0"/>
+      <point x="960.0" y="963.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="253.0" y="876.0" type="move"/>
+      <point x="336.0" y="876.0"/>
+      <point x="494.0" y="786.0"/>
+      <point x="548.0" y="657.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="224.0" y="819.0" type="move"/>
+      <point x="296.0" y="990.0"/>
+      <point x="458.0" y="1204.0"/>
+      <point x="606.0" y="1204.0" type="curve" smooth="yes"/>
+      <point x="797.0" y="1204.0"/>
+      <point x="976.0" y="959.0"/>
+      <point x="1055.0" y="815.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1057.0" y="-90.0" type="move"/>
+      <point x="1057.0" y="33.0"/>
+      <point x="1057.0" y="1206.0"/>
+      <point x="1057.0" y="1206.0" type="curve"/>
+      <point x="1316.0" y="1206.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

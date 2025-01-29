@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_T_iikaar" format="2">
+  <advance height="1000" width="1746"/>
+  <outline>
+    <component base="bn_Ta"/>
+    <component base="bn_iikaar" xOffset="1053.0" yOffset="-21.0"/>
+  </outline>
+</glyph>

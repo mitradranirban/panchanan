@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_half_kha" format="2">
+  <advance width="751"/>
+  <outline>
+    <contour>
+      <point x="606.5" y="1260.38" type="curve"/>
+      <point x="711.5" y="1260.38"/>
+      <point x="932.875" y="1011.88"/>
+      <point x="932.875" y="889.375" type="curve" smooth="yes"/>
+      <point x="932.875" y="713.5"/>
+      <point x="665.0" y="595.0"/>
+      <point x="665.0" y="595.0" type="curve"/>
+      <point x="816.867" y="543.105"/>
+      <point x="912.625" y="466.125"/>
+      <point x="1008.0" y="390.0" type="curve"/>
+      <point x="1008.0" y="1264.0" type="line"/>
+      <point x="1170.0" y="1264.0" type="line"/>
+      <point x="1170.0" y="1152.0" type="line"/>
+      <point x="1154.0" y="1152.0" type="line"/>
+      <point x="1154.0" y="154.375" type="line"/>
+      <point x="1008.0" y="225.25" type="line"/>
+      <point x="859.25" y="346.875"/>
+      <point x="596.0" y="469.375"/>
+      <point x="389.5" y="479.875" type="curve"/>
+      <point x="347.5" y="640.875" type="line"/>
+      <point x="477.0" y="640.875"/>
+      <point x="775.375" y="810.625"/>
+      <point x="785.875" y="899.875" type="curve" smooth="yes"/>
+      <point x="792.164" y="953.328"/>
+      <point x="749.125" y="1055.62"/>
+      <point x="707.125" y="1068.75" type="curve"/>
+      <point x="707.125" y="969.0"/>
+      <point x="548.75" y="773.875"/>
+      <point x="407.0" y="773.875" type="curve" smooth="yes"/>
+      <point x="351.0" y="773.875"/>
+      <point x="249.5" y="852.625"/>
+      <point x="249.5" y="938.375" type="curve" smooth="yes"/>
+      <point x="249.5" y="1023.25"/>
+      <point x="313.375" y="1130.0"/>
+      <point x="386.0" y="1130.0" type="curve" smooth="yes"/>
+      <point x="485.75" y="1130.0"/>
+      <point x="515.5" y="980.375"/>
+      <point x="515.5" y="980.375" type="curve"/>
+      <point x="680.0" y="980.375"/>
+      <point x="606.5" y="1260.38"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_ch_nya" format="2">
+  <advance width="848"/>
+  <outline>
+    <component base="bn_half_cha"/>
+    <component base="bn_half_nya" xOffset="-210.0" yOffset="-730.0"/>
+  </outline>
+</glyph>

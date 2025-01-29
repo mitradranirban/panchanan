@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>copyright</key>
+    <string>Copyright 2025 Panchanan Project Authors (github.com/mitradranirban/panchanan)</string>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>familyName</key>
+    <string>Panchanan</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>bottom-matra</string>
+        <key>y</key>
+        <real>1209.0</real>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>top-matra</string>
+        <key>y</key>
+        <real>1455.0</real>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <real>0.0</real>
+    <key>openTypeHeadCreated</key>
+    <string>2006/08/20 20:08:58</string>
+    <key>openTypeHheaAscender</key>
+    <integer>2183</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-1260</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Digital Revival of the First Bengali Typeface Created by Panchanan Karmakar </string>
+    <key>openTypeNameDesigner</key>
+    <string>Panchanan Karmakar</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/mitradranirban</string>
+    <key>openTypeNameLicense</key>
+    <string>Copyright (c) 2025, Dr Anirban Mitra; This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is copied available with a FAQ at:
+http://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Dr Anirban Mitra</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://fonts.atipra.in</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1093</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>বাংলা</string>
+      </dict>
+    </array>
+    <key>openTypeNameUniqueID</key>
+    <string>Fontforge : Panchanan</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>6</integer>
+      <integer>3</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>2183</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-1260</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>anir</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>500</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2183</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>1260</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
+    <key>postscriptFontName</key>
+    <string>Panchanan-Regular</string>
+    <key>postscriptFullName</key>
+    <string>Panchanan Regular</string>
+    <key>postscriptSlantAngle</key>
+    <real>0.0</real>
+    <key>postscriptUnderlinePosition</key>
+    <real>-154.0</real>
+    <key>postscriptUnderlineThickness</key>
+    <real>102.0</real>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+  </dict>
+</plist>

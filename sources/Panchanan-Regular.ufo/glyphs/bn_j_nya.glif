@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_j_nya" format="2">
+  <advance height="1000" width="1518"/>
+  <outline>
+    <contour>
+      <point x="702.0" y="1183.0" type="move"/>
+      <point x="744.0" y="1063.0"/>
+      <point x="808.0" y="832.0"/>
+      <point x="850.0" y="736.0" type="curve"/>
+      <point x="958.0" y="844.0"/>
+      <point x="976.0" y="987.0"/>
+      <point x="1126.0" y="1012.0" type="curve" smooth="yes"/>
+      <point x="1235.0" y="1030.0"/>
+      <point x="1333.0" y="924.0"/>
+      <point x="1327.0" y="814.0" type="curve" smooth="yes"/>
+      <point x="1321.0" y="707.0"/>
+      <point x="1144.0" y="679.0"/>
+      <point x="1105.0" y="652.0" type="curve"/>
+      <point x="1156.0" y="619.0"/>
+      <point x="1339.0" y="578.0"/>
+      <point x="1339.0" y="460.0" type="curve" smooth="yes"/>
+      <point x="1339.0" y="358.0"/>
+      <point x="1250.0" y="261.0"/>
+      <point x="1147.0" y="274.0" type="curve" smooth="yes"/>
+      <point x="1012.0" y="291.0"/>
+      <point x="994.0" y="422.0"/>
+      <point x="896.0" y="516.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="694.0" y="1185.0" type="move"/>
+      <point x="578.0" y="1101.0"/>
+      <point x="448.0" y="954.0"/>
+      <point x="448.0" y="810.0" type="curve" smooth="yes"/>
+      <point x="448.0" y="717.0"/>
+      <point x="516.0" y="602.0"/>
+      <point x="600.0" y="602.0" type="curve" smooth="yes"/>
+      <point x="732.0" y="602.0"/>
+      <point x="802.0" y="692.0"/>
+      <point x="850.0" y="736.0" type="curve"/>
+      <point x="914.0" y="604.0"/>
+      <point x="898.0" y="412.0"/>
+      <point x="850.0" y="308.0" type="curve" smooth="yes"/>
+      <point x="817.0" y="236.0"/>
+      <point x="724.0" y="106.0"/>
+      <point x="588.0" y="106.0" type="curve" smooth="yes"/>
+      <point x="468.0" y="106.0"/>
+      <point x="328.0" y="246.0"/>
+      <point x="260.0" y="384.0" type="curve" smooth="yes"/>
+      <point x="189.0" y="529.0"/>
+      <point x="136.0" y="764.0"/>
+      <point x="120.0" y="1018.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-3.0" y="1206.0" type="move"/>
+      <point x="1516.0" y="1206.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

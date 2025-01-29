@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_ny_hasanta" format="2">
+  <advance width="1578"/>
+  <outline>
+    <component base="bn_nya" xOffset="71.0"/>
+    <component base="bn_hasanta" xOffset="1483.0" yOffset="-193.0"/>
+  </outline>
+</glyph>

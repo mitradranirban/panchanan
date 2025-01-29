@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_p_sa" format="2">
+  <advance height="1000" width="1338"/>
+  <outline>
+    <contour>
+      <point x="278.0" y="649.0" type="move"/>
+      <point x="352.0" y="781.0"/>
+      <point x="544.0" y="890.0"/>
+      <point x="665.0" y="890.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="873.0" type="move"/>
+      <point x="197.0" y="873.0"/>
+      <point x="296.0" y="816.0"/>
+      <point x="330.0" y="734.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="126.0" y="836.0" type="move"/>
+      <point x="172.0" y="944.0"/>
+      <point x="324.0" y="1029.0"/>
+      <point x="417.0" y="1029.0" type="curve" smooth="yes"/>
+      <point x="537.0" y="1029.0"/>
+      <point x="665.0" y="911.0"/>
+      <point x="715.0" y="820.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="515.0" y="1190.0" type="move"/>
+      <point x="685.0" y="1170.0"/>
+      <point x="765.0" y="980.0"/>
+      <point x="765.0" y="830.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="435.0" type="move" smooth="yes"/>
+      <point x="375.0" y="395.0"/>
+      <point x="386.0" y="375.0"/>
+      <point x="440.0" y="375.0" type="curve" smooth="yes"/>
+      <point x="563.0" y="375.0"/>
+      <point x="689.0" y="861.0"/>
+      <point x="869.0" y="861.0" type="curve" smooth="yes"/>
+      <point x="950.0" y="861.0"/>
+      <point x="1004.0" y="798.0"/>
+      <point x="1037.0" y="741.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1057.0" y="0.0" type="move"/>
+      <point x="1057.0" y="193.0"/>
+      <point x="1057.0" y="1057.0"/>
+      <point x="1057.0" y="1197.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-13.0" y="1206.0" type="move"/>
+      <point x="1336.0" y="1206.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

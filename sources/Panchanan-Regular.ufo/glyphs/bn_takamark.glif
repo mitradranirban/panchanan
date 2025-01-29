@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_takamark" format="2">
+  <advance height="1000"/>
+  <unicode hex="09F2"/>
+  <outline>
+    <contour>
+      <point x="322.0" y="134.791992188" type="curve"/>
+      <point x="470.868775207" y="-66.9723856356"/>
+      <point x="701.759820742" y="-349.943854351"/>
+      <point x="234.0" y="58.7919921875" type="curve"/>
+      <point x="136.0" y="113.791992188"/>
+      <point x="78.0" y="137.791992188"/>
+      <point x="-16.0" y="198.791992188" type="curve" smooth="yes"/>
+      <point x="-51.0" y="221.791992188"/>
+      <point x="-70.0" y="239.791992188"/>
+      <point x="-96.0" y="271.791992188" type="curve" smooth="yes"/>
+      <point x="-118.0" y="298.791992188"/>
+      <point x="-140.0" y="315.791992188"/>
+      <point x="-140.0" y="350.791992188" type="curve" smooth="yes"/>
+      <point x="-140.0" y="380.791992188"/>
+      <point x="-126.0" y="413.791992188"/>
+      <point x="-96.0" y="414.791992188" type="curve" smooth="yes"/>
+      <point x="-42.0" y="417.791992188"/>
+      <point x="-15.0" y="387.791992188"/>
+      <point x="32.0" y="358.791992188" type="curve" smooth="yes"/>
+      <point x="64.0" y="338.791992188"/>
+      <point x="72.0" y="315.791992188"/>
+      <point x="102.0" y="292.791992188" type="curve" smooth="yes"/>
+      <point x="140.0" y="263.791992188"/>
+      <point x="165.0" y="253.791992188"/>
+      <point x="204.0" y="225.791992188" type="curve" smooth="yes"/>
+      <point x="251.0" y="191.791992188"/>
+      <point x="276.0" y="169.791992188"/>
+    </contour>
+  </outline>
+</glyph>

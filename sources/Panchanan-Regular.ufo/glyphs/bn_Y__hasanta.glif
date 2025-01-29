@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_Y_hasanta" format="2">
+  <advance width="1280"/>
+  <outline>
+    <component base="bn_nukta" xOffset="-62.0" yOffset="185.0"/>
+    <component base="bn_ya" xOffset="-3.0"/>
+    <component base="bn_hasanta" xOffset="1136.0" yOffset="-56.0"/>
+  </outline>
+</glyph>

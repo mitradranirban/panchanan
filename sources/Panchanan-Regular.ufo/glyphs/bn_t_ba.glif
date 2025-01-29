@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_t_ba" format="2">
+  <advance height="1000" width="1381"/>
+  <outline>
+    <contour>
+      <point x="-3.0" y="1206.0" type="move"/>
+      <point x="1386.0" y="1206.0" type="line"/>
+    </contour>
+    <component base="bn_ba_phala" xOffset="1360.0" yOffset="270.0"/>
+    <component base="bn_small_ta" xOffset="-90.0"/>
+  </outline>
+</glyph>

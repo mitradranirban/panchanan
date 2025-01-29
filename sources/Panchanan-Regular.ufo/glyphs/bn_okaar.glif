@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_okaar" format="2">
+  <advance height="1000" width="1414"/>
+  <unicode hex="09CB"/>
+  <outline>
+    <component base="bn_ekaar"/>
+    <component base="bn_aakaar" xOffset="828.0"/>
+  </outline>
+</glyph>

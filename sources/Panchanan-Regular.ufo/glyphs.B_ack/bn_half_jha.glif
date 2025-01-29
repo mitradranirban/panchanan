@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_half_jha" format="2">
+  <advance width="837"/>
+  <outline>
+    <contour>
+      <point x="314.0" y="771.0" type="line"/>
+      <point x="588.0" y="528.0" type="line"/>
+      <point x="588.0" y="976.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="588.0" y="1152.0" type="line"/>
+      <point x="-12.0" y="1152.0" type="line"/>
+      <point x="-12.0" y="1264.0" type="line"/>
+      <point x="737.0" y="1264.0" type="line"/>
+      <point x="737.0" y="700.0" type="line"/>
+      <point x="759.0" y="685.0"/>
+      <point x="779.0" y="668.0"/>
+      <point x="809.0" y="644.0" type="curve"/>
+      <point x="809.0" y="642.0" type="line"/>
+      <point x="890.0" y="562.0" type="line"/>
+      <point x="890.0" y="1264.0" type="line"/>
+      <point x="1067.0" y="1264.0" type="line"/>
+      <point x="1067.0" y="1152.0" type="line"/>
+      <point x="1039.0" y="1152.0" type="line"/>
+      <point x="1039.0" y="269.0" type="line"/>
+      <point x="946.0" y="345.0"/>
+      <point x="839.0" y="476.0"/>
+      <point x="737.0" y="565.0" type="curve"/>
+      <point x="737.0" y="254.0" type="line"/>
+      <point x="610.0" y="335.0" type="line"/>
+      <point x="562.0" y="380.0"/>
+      <point x="521.0" y="427.0"/>
+      <point x="473.0" y="468.0" type="curve" smooth="yes"/>
+      <point x="308.0" y="624.0"/>
+      <point x="290.0" y="615.0"/>
+      <point x="160.0" y="666.0" type="curve"/>
+      <point x="64.0" y="811.0" type="line"/>
+      <point x="588.0" y="1134.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

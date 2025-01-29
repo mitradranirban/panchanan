@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bn_d_r_uukaar" format="2">
+  <advance height="1000" width="1431"/>
+  <outline>
+    <contour>
+      <point x="927.0" y="1206.0" type="move"/>
+      <point x="1436.0" y="1206.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="835.0" y="560.0" type="move"/>
+      <point x="885.0" y="580.0"/>
+      <point x="1064.0" y="680.0"/>
+      <point x="1100.0" y="694.0" type="curve"/>
+      <point x="1144.0" y="694.0"/>
+      <point x="1230.0" y="612.0"/>
+      <point x="1230.0" y="566.0" type="curve"/>
+      <point x="1230.0" y="496.0"/>
+      <point x="1230.0" y="180.0"/>
+      <point x="1230.0" y="50.0" type="curve"/>
+    </contour>
+    <component base="bn_d_ra"/>
+  </outline>
+</glyph>
