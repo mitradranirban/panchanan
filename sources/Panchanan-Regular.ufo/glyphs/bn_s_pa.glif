@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_s_pa" format="2">
   <advance width="2282"/>
-  <anchor x="1898" y="1206" name="Anchor-1"/>
-  <anchor x="1908" y="-9" name="Anchor-0"/>
+  <anchor x="1898" y="1206" name="abvm"/>
+  <anchor x="1908" y="-9" name="blwm"/>
   <outline>
     <contour>
       <point x="1997" y="1632" type="curve" smooth="yes"/>

@@ -2,6 +2,8 @@
 <glyph name="bn_sa" format="2">
   <advance width="1422"/>
   <unicode hex="09B8"/>
+  <anchor x="978" y="1240" name="abvm"/>
+  <anchor x="1234" y="-100" name="blwm"/>
   <outline>
     <contour>
       <point x="-15" y="1423" type="curve" smooth="yes"/>

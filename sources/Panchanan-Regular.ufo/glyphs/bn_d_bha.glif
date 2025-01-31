@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_d_bha" format="2">
-  <advance width="1085"/>
+  <advance width="1075"/>
+  <outline>
+    <component base="bn_half_da" xOffset="-8" yOffset="74"/>
+  </outline>
 </glyph>

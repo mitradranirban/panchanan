@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_k_uukaar" format="2">
   <advance width="1755"/>
-  <anchor x="948" y="1206" name="Anchor-1"/>
+  <anchor x="948" y="1206" name="abvm"/>
   <outline>
     <contour>
       <point x="957" y="-224" type="curve" smooth="yes"/>

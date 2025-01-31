@@ -2,6 +2,8 @@
 <glyph name="bn_asamia_ra" format="2">
   <advance width="1295"/>
   <unicode hex="09F0"/>
+  <anchor x="964" y="1220" name="abvm"/>
+  <anchor x="1264" y="-212" name="blwm"/>
   <outline>
     <contour>
       <point x="-48" y="1358" type="curve" smooth="yes"/>

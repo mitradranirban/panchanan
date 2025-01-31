@@ -43,13 +43,13 @@ buildOTF: true
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
- flattenComponents: true
- decomposeTransformedComponents: true
+#flattenComponents: true
+#decomposeTransformedComponents: true
 # checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
- reverseOutlineDirection: false
- removeOutlineOverlaps: true
+#reverseOutlineDirection: false
+#removeOutlineOverlaps: true
 # extraFontmakeArgs: ""
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""

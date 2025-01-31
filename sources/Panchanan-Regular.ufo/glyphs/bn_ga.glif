@@ -2,8 +2,8 @@
 <glyph name="bn_ga" format="2">
   <advance width="1276"/>
   <unicode hex="0997"/>
-  <anchor x="1029" y="1684" name="Anchor-1"/>
-  <anchor x="1125" y="-8" name="Anchor-0"/>
+  <anchor x="1029" y="1684" name="abvm"/>
+  <anchor x="1125" y="-8" name="blwm"/>
   <outline>
     <contour>
       <point x="987" y="1666" type="curve" smooth="yes"/>

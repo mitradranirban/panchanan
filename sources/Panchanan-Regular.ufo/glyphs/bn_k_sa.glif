@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_k_sa" format="2">
-  <advance width="1499"/>
+<glyph name="bn_ka_sa" format="2">
+  <advance width="2554"/>
+  <anchor x="1632" y="1224" name="abvm"/>
+  <anchor x="2214" y="-81" name="blwm"/>
+  <outline>
+    <component base="bn_sa" xOffset="1110" yOffset="6"/>
+    <component base="bn_half_ka"/>
+  </outline>
 </glyph>

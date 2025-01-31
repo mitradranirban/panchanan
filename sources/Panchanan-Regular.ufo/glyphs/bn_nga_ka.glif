@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_nga_ka" format="2">
   <advance width="1385"/>
+  <anchor x="1030" y="1234" name="abvm"/>
+  <anchor x="1042" y="-126" name="blwm"/>
   <outline>
     <contour>
       <point x="1412" y="1191" type="line"/>

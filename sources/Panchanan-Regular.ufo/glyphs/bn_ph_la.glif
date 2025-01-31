@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ph_la" format="2">
   <advance width="1077"/>
-  <anchor x="1098" y="1206" name="Anchor-1"/>
-  <anchor x="1316" y="-119" name="Anchor-0"/>
+  <anchor x="1098" y="1206" name="abvm"/>
+  <anchor x="1316" y="-119" name="blwm"/>
   <outline>
     <contour>
       <point x="823" y="731" type="line"/>

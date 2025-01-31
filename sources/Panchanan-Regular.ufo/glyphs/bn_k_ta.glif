@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_k_ta" format="2">
+<glyph name="bn_ka_ta" format="2">
   <advance width="1785"/>
+  <anchor x="876" y="1221" name="abvm"/>
+  <anchor x="1116" y="-81" name="blwm"/>
   <outline>
     <contour>
       <point x="18" y="1397" type="curve" smooth="yes"/>

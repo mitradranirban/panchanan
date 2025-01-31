@@ -2,6 +2,8 @@
 <glyph name="bn_ba" format="2">
   <advance width="1315"/>
   <unicode hex="09AC"/>
+  <anchor x="986" y="1228" name="abvm"/>
+  <anchor x="1250" y="-152" name="blwm"/>
   <outline>
     <contour>
       <point x="467" y="1452" type="line" smooth="yes"/>

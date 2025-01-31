@@ -84,7 +84,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 0
 FitToEm: 1
-WinInfo: 140 10 4
+WinInfo: 40 10 4
 BeginPrivate: 5
 BlueShift 1 0
 StdHW 5 [201]
@@ -3270,7 +3270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bn_Sha
+StartChar: bn_ssa
 Encoding: 2487 2487 49
 GlifName: bn_S_ha
 Width: 1188
@@ -6514,7 +6514,7 @@ LayerCount: 2
 Fore
 Refer: 65 2509 N 1 0 0 1 1256 -116 2
 Refer: 49 2487 N 1 0 0 1 0 0 2
-Ligature2: "'haln' Halant Forms in Bengali2 lookup 10 subtable" bn_Sha bn_hasanta
+Ligature2: "'haln' Halant Forms in Bengali2 lookup 10 subtable" bn_ssa bn_hasanta
 EndChar
 
 StartChar: bn_sa_hasanta
@@ -7039,7 +7039,7 @@ SplineSet
  906 329 908 329 909 330 c 0
  918 339 939 502 946 630 c 0
 EndSplineSet
-Ligature2: "'akhn' Akhand in Bengali2 lookup 12-1" bn_ka bn_hasanta bn_Sha
+Ligature2: "'akhn' Akhand in Bengali2 lookup 12-1" bn_ka bn_hasanta bn_ssa
 EndChar
 
 StartChar: bn_ka_ssa_ma
@@ -8984,7 +8984,7 @@ Encoding: 65609 -1 171
 GlifName: bn_ch_chh_ra
 Width: 2006
 GlyphClass: 3
-Flags: HWO
+Flags: HW
 AnchorPoint: "abvm" 1078 1206 basechar 0
 AnchorPoint: "blwm" 2067 -659 basechar 0
 LayerCount: 2
@@ -22687,7 +22687,7 @@ SplineSet
  637 801 656 848 656 898 c 0x49
  656 917 653 936 647 954 c 0
 EndSplineSet
-Ligature2: "'half' Half Forms in Bengali2 lookup 6 subtable" bn_Sha bn_hasanta
+Ligature2: "'half' Half Forms in Bengali2 lookup 6 subtable" bn_ssa bn_hasanta
 EndChar
 
 StartChar: bn_half_sa
@@ -23405,6 +23405,7 @@ EndChar
 
 StartChar: bn_nna_dda.alt
 Encoding: 65816 -1 372
+GlifName: bn_nna_dda.alt
 Width: 1350
 Flags: W
 HStem: -77 154<777.618 1105.43> 1206 172<695.826 912.894> 1250 150<218.689 352.66>
@@ -23474,6 +23475,7 @@ EndChar
 
 StartChar: bn_ya_phala
 Encoding: 65817 -1 373
+GlifName: bn_ya_phala
 Width: 734
 Flags: W
 HStem: -142 120<-16.3884 221.213> 1230 217<447.006 755.875> 1236 195<-45.3269 300.409 600.312 617.405>
@@ -23529,36 +23531,39 @@ EndChar
 
 StartChar: bn_ba_phala
 Encoding: 65818 -1 374
+GlifName: bn_ba_phala
 Width: 0
-Flags: HW
+Flags: W
+HStem: 277 161<-407.492 -333>
+VStem: -748 215<156 239.333> -338 85<51.457 259.97>
 LayerCount: 2
 Fore
 SplineSet
 -358 424 m 0
  -354 433.333333333 -347.333333333 438 -338 438 c 0
- -328 438 -317.166666667 433 -305.5 423 c 128
+ -328 438 -317.166666667 433 -305.5 423 c 0
  -293.833333333 413 -283.666666667 399.666666667 -275 383 c 0
  -260.333333333 353.666666667 -253 311.666666667 -253 257 c 0
  -253 233 -254 204 -256 170 c 0
  -258 137.333333333 -259 108.666666667 -259 84 c 0
  -259 23.3333333333 -252.333333333 -22.3333333333 -239 -53 c 0
  -223 -91 -215 -113.666666667 -215 -121 c 0
- -215 -129 -223.333333333 -133 -240 -133 c 128
- -256.666666667 -133 -289 -118.666666667 -337 -90 c 128
+ -215 -129 -223.333333333 -133 -240 -133 c 0
+ -256.666666667 -133 -289 -118.666666667 -337 -90 c 0
  -385 -61.3333333333 -437 -25.3333333333 -493 18 c 0
  -537.666666667 52 -595.666666667 95.3333333333 -667 148 c 0
- -689 164 -708 180.166666667 -724 196.5 c 128
+ -689 164 -708 180.166666667 -724 196.5 c 0
  -740 212.833333333 -748 224.666666667 -748 232 c 0
- -748 246.666666667 -735.666666667 261.333333333 -711 276 c 128
+ -748 246.666666667 -735.666666667 261.333333333 -711 276 c 0
  -686.333333333 290.666666667 -654 303 -614 313 c 0
- -577.333333333 321.666666667 -526.5 340.166666667 -461.5 368.5 c 128
+ -577.333333333 321.666666667 -526.5 340.166666667 -461.5 368.5 c 0
  -396.5 396.833333333 -362 415.333333333 -358 424 c 0
 -338 169 m 0
- -338 219 -340.166666667 249.5 -344.5 260.5 c 128
+ -338 219 -340.166666667 249.5 -344.5 260.5 c 0
  -348.833333333 271.5 -360.333333333 277 -379 277 c 0
- -401 277 -432.166666667 262 -472.5 232 c 128
+ -401 277 -432.166666667 262 -472.5 232 c 0
  -512.833333333 202 -533 179 -533 163 c 0
- -533 149 -510.5 126.833333333 -465.5 96.5 c 128
+ -533 149 -510.5 126.833333333 -465.5 96.5 c 0
  -420.5 66.1666666667 -388.333333333 51 -369 51 c 0
  -366.333333333 51 -364.333333333 51.3333333333 -363 52 c 0
  -346.333333333 58.6666666667 -338 97.6666666667 -338 169 c 0
@@ -23569,6 +23574,7 @@ EndChar
 
 StartChar: bn_reph
 Encoding: 65819 -1 375
+GlifName: bn_reph
 Width: 0
 Flags: W
 HStem: 2257 263<-187.402 -72.0327>
@@ -23606,6 +23612,7 @@ EndChar
 
 StartChar: bn_ekaar_init
 Encoding: 65820 -1 376
+GlifName: bn_ekaar_init
 Width: 748
 Flags: HW
 LayerCount: 2
@@ -23657,6 +23664,7 @@ EndChar
 
 StartChar: bn_aikaar_init
 Encoding: 65821 -1 377
+GlifName: bn_aikaar_init
 Width: 745
 Flags: HW
 LayerCount: 2
@@ -23761,6 +23769,7 @@ EndChar
 
 StartChar: bn_k_ka
 Encoding: 65822 -1 378
+GlifName: bn_k_ka
 Width: 2624
 Flags: HW
 LayerCount: 2
@@ -23771,6 +23780,7 @@ EndChar
 
 StartChar: bn_k_Ta
 Encoding: 65823 -1 379
+GlifName: bn_k_T_a
 Width: 2140
 Flags: HW
 LayerCount: 2
@@ -23781,6 +23791,7 @@ EndChar
 
 StartChar: bn_k_ma
 Encoding: 65824 -1 380
+GlifName: bn_k_ma
 Width: 1335
 Flags: HW
 LayerCount: 2

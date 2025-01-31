@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_chh_ra" format="2">
   <advance width="1554"/>
-  <anchor x="932" y="-259" name="Anchor-0"/>
+  <anchor x="932" y="-259" name="blwm"/>
   <outline>
     <contour>
       <point x="391" y="1440" type="curve" smooth="yes"/>

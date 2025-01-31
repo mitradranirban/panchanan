@@ -1,4 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_g_ma" format="2">
-  <advance width="1506"/>
+<glyph name="bn_ga_ma" format="2">
+  <advance width="1237"/>
+  <outline>
+    <component base="bn_ma_phala" xOffset="354" yOffset="-30"/>
+    <component base="bn_half_ga"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1210</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1261</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>264</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>368</integer>
+            <key>width</key>
+            <integer>206</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>996</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_g_ba" format="2">
-  <advance width="1100"/>
+<glyph name="bn_ga_ba" format="2">
+  <advance width="1237"/>
+  <anchor x="1038" y="1225" name="abvm"/>
+  <anchor x="1194" y="7" name="blwm"/>
+  <outline>
+    <component base="bn_ba_phala" xOffset="1449" yOffset="162"/>
+    <component base="bn_half_ga"/>
+  </outline>
 </glyph>

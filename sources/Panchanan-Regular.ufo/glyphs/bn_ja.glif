@@ -2,8 +2,8 @@
 <glyph name="bn_ja" format="2">
   <advance width="1566"/>
   <unicode hex="099C"/>
-  <anchor x="884" y="1428" name="Anchor-1"/>
-  <anchor x="1346" y="-32" name="Anchor-0"/>
+  <anchor x="884" y="1428" name="abvm"/>
+  <anchor x="1346" y="-32" name="blwm"/>
   <outline>
     <contour>
       <point x="-18" y="1384" type="curve" smooth="yes"/>

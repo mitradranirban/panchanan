@@ -2,8 +2,8 @@
 <glyph name="bn_ka" format="2">
   <advance width="1755"/>
   <unicode hex="0995"/>
-  <anchor x="921" y="1500" name="Anchor-1"/>
-  <anchor x="1113" y="-200" name="Anchor-0"/>
+  <anchor x="921" y="1500" name="abvm"/>
+  <anchor x="1113" y="-200" name="blwm"/>
   <outline>
     <contour>
       <point x="-24" y="1451" type="curve" smooth="yes"/>

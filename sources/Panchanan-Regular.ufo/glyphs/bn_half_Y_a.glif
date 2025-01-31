@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_half_Ya" format="2">
+<glyph name="bn_half_yya" format="2">
   <advance width="640"/>
-  <anchor x="518" y="1206" name="Anchor-1"/>
+  <anchor x="518" y="1206" name="abvm"/>
   <outline>
     <contour>
       <point x="201" y="432" type="curve" smooth="yes"/>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_k_ka" format="2">
-  <advance width="1160"/>
+  <advance width="2624"/>
+  <outline>
+    <component base="bn_ka" xOffset="920"/>
+    <component base="bn_half_ka"/>
+  </outline>
 </glyph>

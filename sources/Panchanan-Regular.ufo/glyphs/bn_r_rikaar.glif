@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_r_rikaar" format="2">
   <advance width="1583"/>
-  <anchor x="994" y="-9" name="Anchor-0"/>
+  <anchor x="994" y="-9" name="blwm"/>
   <outline>
     <contour>
       <point x="1142" y="2210" type="curve" smooth="yes"/>

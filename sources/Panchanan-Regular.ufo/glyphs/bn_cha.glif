@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_cha" format="2">
+<glyph name="bn_ca" format="2">
   <advance width="1254"/>
   <unicode hex="099A"/>
-  <anchor x="551" y="1473" name="Anchor-1"/>
-  <anchor x="410" y="-40" name="Anchor-0"/>
+  <anchor x="551" y="1473" name="abvm"/>
+  <anchor x="410" y="-40" name="blwm"/>
   <outline>
     <contour>
       <point x="1122" y="1465" type="curve" smooth="yes"/>
