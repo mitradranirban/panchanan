@@ -158,6 +158,23 @@ http://openfontlicense.org</string>
     <key>postscriptBlueShift</key>
     <integer>0</integer>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>x</key>
+        <real>1024</real>
+        <key>y</key>
+        <real>1225</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>1024</real>
+        <key>y</key>
+        <real>1460</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+    </array>
   </dict>
 </plist>
