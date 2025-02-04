@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_j_jha" format="2">
   <advance width="1162"/>
+  <anchor x="640" y="1240" name="abvm"/>
+  <anchor x="856" y="-312" name="blwm"/>
   <outline>
     <component base="bn_half_jha" xOffset="180" yOffset="-836"/>
     <component base="bn_half_ja"/>

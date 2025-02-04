@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>bn_ng_kha</key>
+    <string>bn_ng_kha.glif</string>
+    <key>bn_dh_ba</key>
+    <string>bn_dh_ba.glif</string>
+    <key>bn_n_na</key>
+    <string>bn_n_na.glif</string>
+    <key>bn_pa_ta</key>
+    <string>bn_p_T_a.glif</string>
+    <key>bn_ya_yaphalaa</key>
+    <string>bn_ya_yaphalaa.glif</string>
+    <key>bn_tta.alt</key>
+    <string>bn_tta.alt.glif</string>
+    <key>bn_ta_yaphalaa</key>
+    <string>bn_ta_yaphalaa.glif</string>
+    <key>glyph388</key>
+    <string>(null).glif</string>
+    <key>bn_ta_ta.alt</key>
+    <string>bn_ta_ta.alt.glif</string>
+  </dict>
+</plist>

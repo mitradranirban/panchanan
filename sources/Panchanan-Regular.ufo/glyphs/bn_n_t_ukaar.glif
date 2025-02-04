@@ -4,7 +4,7 @@
   <anchor x="706" y="1225" name="abvm"/>
   <anchor x="805" y="-29" name="blwm"/>
   <outline>
-    <component base="bn_o" xScale="0.6" yScale="0.6" xOffset="158" yOffset="-57.2"/>
+    <component base="bn_o" xScale="0.6" yScale="0.6" xOffset="158" yOffset="-57"/>
     <component base="bn_half_na"/>
   </outline>
 </glyph>

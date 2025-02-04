@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_m_bh_ra" format="2">
   <advance width="1095"/>
+  <anchor x="592" y="1240" name="abvm"/>
+  <anchor x="948" y="-515" name="blwm"/>
   <outline>
-    <component base="bn_ra_phala" xOffset="1432" yOffset="452"/>
+    <component base="bn_ra_phala" xOffset="1103" yOffset="132"/>
     <component base="bn_m_bha"/>
   </outline>
 </glyph>

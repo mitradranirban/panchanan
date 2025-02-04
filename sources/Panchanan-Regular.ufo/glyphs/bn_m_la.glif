@@ -2,7 +2,7 @@
 <glyph name="bn_m_la" format="2">
   <advance width="835"/>
   <outline>
-    <component base="bn_la_phala" xScale="0.933338" yScale="0.945939" xOffset="712.2" yOffset="379.89"/>
+    <component base="bn_la_phala" xScale="0.933338" yScale="0.945939" xOffset="712" yOffset="380"/>
     <component base="bn_half_ma"/>
   </outline>
 </glyph>

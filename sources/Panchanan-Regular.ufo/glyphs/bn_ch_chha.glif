@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ch_chha" format="2">
   <advance width="2159"/>
+  <anchor x="942" y="1240" name="abvm"/>
+  <anchor x="2030" y="-216" name="blwm"/>
   <outline>
     <contour>
       <point x="1757" y="1483" type="curve" smooth="yes"/>

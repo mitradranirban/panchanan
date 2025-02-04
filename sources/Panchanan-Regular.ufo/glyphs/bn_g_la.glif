@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ga_la" format="2">
   <advance width="1237"/>
+  <anchor x="1038" y="1208" name="abvm"/>
+  <anchor x="1150" y="-120" name="blwm"/>
   <outline>
     <component base="bn_la_phala" xOffset="1194" yOffset="108"/>
     <component base="bn_half_ga"/>
@@ -73,12 +75,6 @@
             <integer>1039</integer>
             <key>width</key>
             <integer>218</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1257</integer>
-            <key>width</key>
-            <integer>0</integer>
           </dict>
         </array>
       </dict>

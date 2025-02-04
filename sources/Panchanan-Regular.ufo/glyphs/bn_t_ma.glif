@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_t_ma" format="2">
+<glyph name="bn_ta_ma" format="2">
   <advance width="884"/>
+  <anchor x="501" y="1226" name="abvm"/>
+  <anchor x="675" y="-93" name="blwm"/>
   <outline>
     <component base="bn_ma_phala"/>
     <component base="bn_half_ta"/>

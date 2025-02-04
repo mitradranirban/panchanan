@@ -340,9 +340,9 @@
     <string>bn_ch_chha.glif</string>
     <key>bn_ch_nya</key>
     <string>bn_ch_nya.glif</string>
-    <key>bn_chh_ra</key>
+    <key>bn_cha_ra</key>
     <string>bn_chh_ra.glif</string>
-    <key>bn_chh_ba</key>
+    <key>bn_cha_ba</key>
     <string>bn_chh_ba.glif</string>
     <key>bn_ch_chh_ra</key>
     <string>bn_ch_chh_ra.glif</string>
@@ -374,33 +374,33 @@
     <string>bn_D__D_a.glif</string>
     <key>bn_D_ra</key>
     <string>bn_D__ra.glif</string>
-    <key>bn_R_ga</key>
+    <key>bn_rra_ga</key>
     <string>bn_R__ga.glif</string>
-    <key>bn_N_Ta</key>
+    <key>bn_nna_tta</key>
     <string>bn_N__T_a.glif</string>
-    <key>bn_N_Tha</key>
+    <key>bn_nna_ttha</key>
     <string>bn_N__T_ha.glif</string>
-    <key>bn_N_Da</key>
+    <key>bn_nna_dda</key>
     <string>bn_N__D_a.glif</string>
-    <key>bn_N_Dha</key>
+    <key>bn_nna_ddha</key>
     <string>bn_N__D_ha.glif</string>
-    <key>bn_N_Na</key>
+    <key>bn_nna_nna</key>
     <string>bn_N__N_a.glif</string>
-    <key>bn_N_ma</key>
+    <key>bn_nna_ma</key>
     <string>bn_N__ma.glif</string>
-    <key>bn_N_ba</key>
+    <key>bn_nna_ba</key>
     <string>bn_N__ba.glif</string>
-    <key>bn_N_ra</key>
+    <key>bn_nna_ra</key>
     <string>bn_N__ra.glif</string>
     <key>bn_N_D_ra</key>
     <string>bn_N__D__ra.glif</string>
     <key>bn_t_ba</key>
     <string>bn_t_ba.glif</string>
-    <key>bn_t_ma</key>
+    <key>bn_ta_ma</key>
     <string>bn_t_ma.glif</string>
     <key>bn_t_na</key>
     <string>bn_t_na.glif</string>
-    <key>bn_t_t_ba</key>
+    <key>bn_ta_ta_ba</key>
     <string>bn_t_t_ba.glif</string>
     <key>bn_t_ta</key>
     <string>bn_t_ta.glif</string>
@@ -410,11 +410,11 @@
     <string>bn_th_ra.glif</string>
     <key>bn_th_ba</key>
     <string>bn_th_ba.glif</string>
-    <key>bn_d_da</key>
+    <key>bn_da_da</key>
     <string>bn_d_da.glif</string>
     <key>bn_d_bha</key>
     <string>bn_d_bha.glif</string>
-    <key>bn_d_ra</key>
+    <key>bn_da_ra</key>
     <string>bn_d_ra.glif</string>
     <key>bn_d_ma</key>
     <string>bn_d_ma.glif</string>
@@ -440,13 +440,13 @@
     <string>bn_n_ta.glif</string>
     <key>bn_n_tha</key>
     <string>bn_n_tha.glif</string>
-    <key>bn_n_da</key>
+    <key>bn_na_da</key>
     <string>bn_n_da.glif</string>
     <key>bn_n_ma</key>
     <string>bn_n_ma.glif</string>
     <key>bn_n_dha</key>
     <string>bn_n_dha.glif</string>
-    <key>bn_n_d_ra</key>
+    <key>bn_na_da_ra</key>
     <string>bn_n_d_ra.glif</string>
     <key>bn_n_na</key>
     <string>bn_n_na.glif</string>
@@ -472,7 +472,7 @@
     <string>bn_p_na.glif</string>
     <key>bn_p_ra</key>
     <string>bn_p_ra.glif</string>
-    <key>bn_p_Ta</key>
+    <key>bn_pa_ta</key>
     <string>bn_p_T_a.glif</string>
     <key>bn_p_sa</key>
     <string>bn_p_sa.glif</string>
@@ -764,5 +764,19 @@
     <string>bn_k_T_a.glif</string>
     <key>bn_k_ma</key>
     <string>bn_k_ma.glif</string>
+    <key>bn_ya_yaphalaa</key>
+    <string>bn_ya_yaphalaa.glif</string>
+    <key>bn_tta.alt</key>
+    <string>bn_tta.alt.glif</string>
+    <key>bn_ta_yaphalaa</key>
+    <string>bn_ta_yaphalaa.glif</string>
+    <key>bn_ta_yaphalaa.alt</key>
+    <string>bn_ta_yaphalaa.alt.glif</string>
+    <key>bn_nga_kga.alt</key>
+    <string>bn_nga_kga.alt.glif</string>
+    <key>bn_ta_ukaar</key>
+    <string>bn_ta_ukaar.glif</string>
+    <key>bn_ta_ta.alt</key>
+    <string>bn_ta_ta.alt.glif</string>
   </dict>
 </plist>

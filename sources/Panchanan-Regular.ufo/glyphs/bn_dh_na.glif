@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_dh_na" format="2">
-  <advance width="970"/>
+  <advance width="756"/>
+  <anchor x="576" y="1227" name="abvm"/>
+  <anchor x="648" y="-381" name="blwm"/>
+  <outline>
+    <component base="bn_na_phala" xOffset="51" yOffset="-165"/>
+    <component base="bn_half_dha"/>
+  </outline>
 </glyph>
