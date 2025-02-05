@@ -6,10 +6,16 @@ languagesystem bng2 dflt;
 # GSUB 
 
 
+lookup finaTerminalFormsinBengali2lookup0 {
+  lookupflag 0;
+    sub \bn_ssa_ukaar by \bn_ssa_ukaar.fina ;
+} finaTerminalFormsinBengali2lookup0;
+
 lookup initInitialFormsinBengali2lookup0 {
   lookupflag 0;
     sub \bn_ekaar by \bn_ekaar_init ;
     sub \bn_aikaar by \bn_aikaar_init ;
+    sub \bn_ssa_ukaar by \bn_ssa_uukar.init ;
 } initInitialFormsinBengali2lookup0;
 
 lookup nuktNuktaFormsinBengali2lookup1 {
@@ -277,6 +283,17 @@ lookup ss01StyleSet1inBengali2lookup11 {
     sub \bn_ta_yaphalaa by \bn_ta_yaphalaa.alt ;
 } ss01StyleSet1inBengali2lookup11;
 
+feature fina {
+
+ script DFLT;
+     language dflt ;
+      lookup finaTerminalFormsinBengali2lookup0;
+
+ script bng2;
+     language dflt ;
+      lookup finaTerminalFormsinBengali2lookup0;
+} fina;
+
 feature init {
 
  script bng2;
@@ -397,8 +414,9 @@ lookup blwmBelowBaseMarkinBengalilookup0 {
   markClass [\bn_rikaar ] <anchor -332 2> @blwm;
   markClass [\bn_rrikaar ] <anchor -369 -12> @blwm;
   markClass [\bn_hasanta ] <anchor -421 -1> @blwm;
-  markClass [\bn_likaar ] <anchor -469 574> @blwm;
-  markClass [\bn_llikaar ] <anchor -519 194> @blwm;
+  markClass [\bn_likaar ] <anchor 3 766> @blwm;
+  markClass [\bn_llikaar ] <anchor -7 298> @blwm;
+  pos base [\bn_ri ] <anchor 977 -135> mark @blwm;
   pos base [\bn_ka ] <anchor 1113 -200> mark @blwm;
   pos base [\bn_kha ] <anchor 1261 -152> mark @blwm;
   pos base [\bn_ga ] <anchor 1125 -8> mark @blwm;
@@ -528,9 +546,8 @@ lookup blwmBelowBaseMarkinBengalilookup0 {
   pos base [\bn_m_p_ra ] <anchor 1821 -59> mark @blwm;
   pos base [\bn_m_bh_ra ] <anchor 948 -515> mark @blwm;
   pos base [\bn_sh_ma ] <anchor 2395 -201> mark @blwm;
-  pos base [\bn_sh_la ] <anchor 1106 -109> mark @blwm;
+  pos base [\bn_sh_la ] <anchor 1236 -474> mark @blwm;
   pos base [\bn_Sh_pa ] <anchor 1651 -9> mark @blwm;
-  pos base [\bn_Sh_T_ra ] <anchor 689 -347> mark @blwm;
   pos base [\bn_s_ka ] <anchor 946 -136> mark @blwm;
   pos base [\bn_s_kha ] <anchor 982 -188> mark @blwm;
   pos base [\bn_s_Ta ] <anchor 1251 -9> mark @blwm;
@@ -538,9 +555,9 @@ lookup blwmBelowBaseMarkinBengalilookup0 {
   pos base [\bn_s_tha ] <anchor 1134 -400> mark @blwm;
   pos base [\bn_s_pa ] <anchor 1908 -9> mark @blwm;
   pos base [\bn_s_ba ] <anchor 910 111> mark @blwm;
-  pos base [\bn_s_ma ] <anchor 1461 -29> mark @blwm;
+  pos base [\bn_s_ma ] <anchor 840 -44> mark @blwm;
   pos base [\bn_s_k_ra ] <anchor 861 -129> mark @blwm;
-  pos base [\bn_s_T_ra ] <anchor 1351 -240> mark @blwm;
+  pos base [\bn_s_T_ra ] <anchor 1586 -695> mark @blwm;
   pos base [\bn_h_ra ] <anchor 715 -229> mark @blwm;
   pos base [\bn_h_la ] <anchor 1946 -145> mark @blwm;
   pos base [\bn_h_ba ] <anchor 1423 71> mark @blwm;
@@ -561,6 +578,8 @@ lookup blwmBelowBaseMarkinBengalilookup0 {
   pos base [\bn_D_ga ] <anchor 1747 -4> mark @blwm;
   pos base [\bn_ta_yaphalaa.alt ] <anchor 1090 -57> mark @blwm;
   pos base [\bn_nga_kga.alt ] <anchor 826 -194> mark @blwm;
+  pos base [\bn_ssa_uukar.init ] <anchor 1556 -100> mark @blwm;
+  pos base [\bn_ssa_ukaar.fina ] <anchor 1026 -120> mark @blwm;
 } blwmBelowBaseMarkinBengalilookup0;
 
 feature blwm {
@@ -585,12 +604,12 @@ feature size {
 	\bn_ek \bn_dui \bn_tin \bn_chaar \bn_paanch \bn_chhoi \bn_saat \bn_aat \bn_noi 
 	\bn_asamia_ra \bn_asamia_va \bn_currency1 \bn_currency2 \bn_currency3 
 	\bn_currency4 \bn_currency1less \bn_currency16 \bn_isshar \uni09FD \zwnj \zwj 
-	\uni25CC \bn_n_ya \bn_sh_ya \bn_Sh_ya \bn_sa_na \bn_h_ya \bn_ma_phala 
-	\bn_na_phala \bn_la_phala \bn_Na_phala \bn_ra_phala \bn_post_ukaar 
-	\bn_post_uukaar \bn_ng_ga.alt \bn_ka_ukaar.alt \bn_ga_na.alt \bn_ka_ta.alt 
-	\bn_ka_ra.alt \bn_la.alt \bn_nna_dda.alt \bn_ekaar_init \bn_aikaar_init 
-	\bn_k_ka \bn_k_Ta \bn_k_ma \bn_tta.alt \bn_ta_yaphalaa.alt \bn_nga_kga.alt 
-	\bn_ta_ta.alt ];
+	\uni25CC \bn_n_ya \bn_sa_na \bn_h_ya \bn_ma_phala \bn_na_phala \bn_la_phala 
+	\bn_Na_phala \bn_ra_phala \bn_post_ukaar \bn_post_uukaar \bn_ng_ga.alt 
+	\bn_ka_ukaar.alt \bn_ga_na.alt \bn_ka_ta.alt \bn_ka_ra.alt \bn_la.alt 
+	\bn_nna_dda.alt \bn_ekaar_init \bn_aikaar_init \bn_k_ka \bn_k_Ta \bn_k_ma 
+	\bn_tta.alt \bn_ta_yaphalaa.alt \bn_nga_kga.alt \bn_ta_ta.alt \bn_ssa_ukaar 
+	\bn_ssa_uukar.init \bn_ssa_ukaar.fina ];
 @GDEF_Ligature = [\bn_rra \bn_rrha \bn_yya \bn_half_rra \bn_half_rrha 
 	\bn_half_yya \bn_half_asamese_ra \bn_half_asamese_va \bn_ka_hasanta 
 	\bn_kha_hasanta \bn_ga_hasanta \bn_gha_hasanta \bn_nga_hasanta 
@@ -614,27 +633,25 @@ feature size {
 	\bn_da_ra \bn_d_ma \bn_d_ba \bn_d_dha \bn_d_dh_ba \bn_d_d_ba \bn_d_ga \bn_d_gha 
 	\bn_dh_ra \bn_dh_ba \bn_dh_na \bn_n_ta \bn_n_tha \bn_na_da \bn_n_ma \bn_n_dha 
 	\bn_na_da_ra \bn_n_na \bn_n_sa \bn_n_ba \bn_n_t_ba \bn_n_dh_ra \bn_n_d_ba 
-	\bn_n_t_ra \bn_p_la \bn_p_pa \bn_p_na \bn_p_ra \bn_pa_ta \bn_p_sa \bn_ph_ra 
-	\bn_ph_la \bn_b_ja \bn_b_da \bn_b_jha \bn_b_ba \bn_b_ra \bn_bh_ra \bn_m_na 
-	\bn_m_pa \bn_m_pha \bn_m_ba \bn_m_bha \bn_m_ra \bn_m_ma \bn_m_la \bn_m_p_ra 
-	\bn_m_bh_ra \bn_sh_cha \bn_sh_chha \bn_sh_na \bn_sh_ma \bn_sh_ra \bn_sh_la 
-	\bn_sh_ba \bn_ssa_ka \bn_Sh_Na \bn_Sh_Ta \bn_Sh_Tha \bn_Sh_ma \bn_Sh_pa 
-	\bn_Sh_T_ra \bn_Sh_k_ra \bn_Sh_pha \bn_s_ka \bn_s_kha \bn_s_Ta \bn_s_ta 
-	\bn_s_tha \bn_s_pa \bn_s_pha \bn_s_ba \bn_s_ma \bn_s_ra \bn_s_t_ra \bn_s_k_ra 
-	\bn_s_T_ra \bn_s_la \bn_h_na \bn_h_ra \bn_h_ma \bn_h_la \bn_h_ba \bn_h_Na 
-	\bn_g_ukaar \bn_n_t_ukaar \bn_r_ukaar \bn_r_uukaar \bn_sh_ukaar \bn_h_rikaar 
-	\bn_h_ukaar \bn_g_r_ukaar \bn_g_r_uukaar \bn_b_r_ukaar \bn_sh_r_ukaar 
-	\bn_sh_r_uukaar \bn_s_t_ukaar \bn_t_r_ukaar \bn_th_r_ukaar \bn_th_r_uukaar 
-	\bn_d_r_ukaar \bn_d_r_uukaar \bn_dh_r_ukaar \bn_dh_r_uukaar \bn_bh_la 
-	\bn_m_tha \bn_m_da \bn_l_ta \bn_l_dha \bn_sh_ta \bn_r_rikaar \bn_D_ga 
-	\bn_k_ukaar \bn_k_uukaar \bn_k_rikaar \bn_half_ka \bn_half_kha \bn_half_ga 
-	\bn_half_gha \bn_half_nga \bn_half_cha \bn_half_chha \bn_half_ja \bn_half_jha 
-	\bn_half_nya \bn_half_Ta \bn_half_Tha \bn_half_Da \bn_half_Dha \bn_half_nna 
-	\bn_half_ta \bn_half_tha \bn_half_da \bn_half_dha \bn_half_na \bn_half_pa 
-	\bn_half_pha \bn_half_ba \bn_half_bha \bn_half_ma \bn_half_ya \bn_half_ra 
-	\bn_half_la \bn_half_sha \bn_half_ssa \bn_half_sa \bn_half_ha \bn_ng_ka.alt 
-	\bn_ya_phala \bn_ba_phala \bn_reph \bn_ya_yaphalaa \bn_ta_yaphalaa 
-	\bn_ta_ukaar ];
+	\bn_n_t_ra \bn_p_ra \bn_pa_ta \bn_p_sa \bn_ph_ra \bn_ph_la \bn_b_ja \bn_b_da 
+	\bn_b_jha \bn_b_ba \bn_b_ra \bn_bh_ra \bn_m_na \bn_m_pa \bn_m_pha \bn_m_ba 
+	\bn_m_bha \bn_m_ra \bn_m_ma \bn_m_la \bn_m_p_ra \bn_m_bh_ra \bn_sh_cha 
+	\bn_sh_chha \bn_sh_ma \bn_sh_ra \bn_sh_la \bn_sh_ba \bn_Sh_Na \bn_Sh_Ta 
+	\bn_Sh_Tha \bn_Sh_pa \bn_Sh_T_ra \bn_s_ka \bn_s_kha \bn_s_Ta \bn_s_ta \bn_s_tha 
+	\bn_s_pa \bn_s_pha \bn_s_ba \bn_s_ma \bn_s_ra \bn_s_t_ra \bn_s_k_ra \bn_s_T_ra 
+	\bn_s_la \bn_h_na \bn_h_ra \bn_h_ma \bn_h_la \bn_h_ba \bn_h_Na \bn_g_ukaar 
+	\bn_n_t_ukaar \bn_r_ukaar \bn_r_uukaar \bn_sh_ukaar \bn_h_rikaar \bn_h_ukaar 
+	\bn_g_r_ukaar \bn_g_r_uukaar \bn_b_r_ukaar \bn_sh_r_ukaar \bn_sh_r_uukaar 
+	\bn_s_t_ukaar \bn_t_r_ukaar \bn_th_r_ukaar \bn_th_r_uukaar \bn_d_r_ukaar 
+	\bn_d_r_uukaar \bn_dh_r_ukaar \bn_dh_r_uukaar \bn_m_da \bn_sh_ta \bn_r_rikaar 
+	\bn_D_ga \bn_k_ukaar \bn_k_uukaar \bn_k_rikaar \bn_half_ka \bn_half_kha 
+	\bn_half_ga \bn_half_gha \bn_half_nga \bn_half_cha \bn_half_chha \bn_half_ja 
+	\bn_half_jha \bn_half_nya \bn_half_Ta \bn_half_Tha \bn_half_Da \bn_half_Dha 
+	\bn_half_nna \bn_half_ta \bn_half_tha \bn_half_da \bn_half_dha \bn_half_na 
+	\bn_half_pa \bn_half_pha \bn_half_ba \bn_half_bha \bn_half_ma \bn_half_ya 
+	\bn_half_ra \bn_half_la \bn_half_sha \bn_half_ssa \bn_half_sa \bn_half_ha 
+	\bn_ng_ka.alt \bn_ya_phala \bn_ba_phala \bn_reph \bn_ya_yaphalaa 
+	\bn_ta_yaphalaa \bn_ta_ukaar ];
 @GDEF_Mark = [\bn_ukaar \bn_uukaar \bn_rikaar \bn_rrikaar \bn_hasanta \bn_likaar 
 	\bn_llikaar \bn_takamark ];
 

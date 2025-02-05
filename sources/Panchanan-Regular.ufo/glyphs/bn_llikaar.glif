@@ -2,7 +2,7 @@
 <glyph name="bn_llikaar" format="2">
   <advance width="0"/>
   <unicode hex="09E3"/>
-  <anchor x="-519" y="194" name="_blwm"/>
+  <anchor x="-7" y="298" name="_blwm"/>
   <outline>
     <contour>
       <point x="-621" y="61" type="curve" smooth="yes"/>
