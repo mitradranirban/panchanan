@@ -1,8 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ttha_hasanta" format="2">
   <advance width="1103"/>
+  <anchor x="582" y="1232" name="abvm"/>
   <outline>
     <component base="bn_hasanta" xOffset="944" yOffset="16"/>
     <component base="bn_ttha"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-395</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>48</integer>
+            <key>width</key>
+            <integer>249</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1232</integer>
+            <key>width</key>
+            <integer>255</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1248</integer>
+            <key>width</key>
+            <integer>216</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1250</integer>
+            <key>width</key>
+            <integer>191</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>139</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>654</integer>
+            <key>width</key>
+            <integer>462</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>785</integer>
+            <key>width</key>
+            <integer>263</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

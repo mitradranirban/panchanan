@@ -12,8 +12,12 @@
     <string>bn_dh_ba.glif</string>
     <key>bn_n_na</key>
     <string>bn_n_na.glif</string>
+    <key>bn_n_sa</key>
+    <string>bn_n_sa.glif</string>
     <key>bn_pa_ta</key>
     <string>bn_p_T_a.glif</string>
+    <key>bn_ma_pa</key>
+    <string>bn_m_pa.glif</string>
     <key>bn_ya_yaphalaa</key>
     <string>bn_ya_yaphalaa.glif</string>
     <key>bn_tta.alt</key>
@@ -28,5 +32,21 @@
     <string>bn_ssa_uukar.init.glif</string>
     <key>bn_ssa_ukaar.fina</key>
     <string>bn_ssa_ukaar.fina.glif</string>
+    <key>bn_ja_nya.alt</key>
+    <string>bn_ja_nya.alt.glif</string>
+    <key>bn_nya_cha.alt</key>
+    <string>bn_nya_cha.alt.glif</string>
+    <key>bn_ma_pa.alt</key>
+    <string>bn_ma_pa.alt.glif</string>
+    <key>bn_ma_ma.alt</key>
+    <string>bn_ma_ma.alt.glif</string>
+    <key>bn_ma_ukaar</key>
+    <string>bn_ma_ukaar.glif</string>
+    <key>bn_ssa_nna.alt</key>
+    <string>bn_ssa_nna.alt.glif</string>
+    <key>bn_ssa_tta.alt</key>
+    <string>bn_ssa_tta.alt.glif</string>
+    <key>bn_sa_ra_iikaar</key>
+    <string>bn_sa_ra_iikaar.glif</string>
   </dict>
 </plist>

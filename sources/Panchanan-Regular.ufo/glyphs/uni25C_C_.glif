@@ -4,46 +4,10 @@
   <unicode hex="25CC"/>
   <outline>
     <contour>
-      <point x="477" y="138" type="line"/>
-      <point x="232" y="294" type="line"/>
-      <point x="327" y="416" type="line"/>
-      <point x="574" y="258" type="line"/>
-    </contour>
-    <contour>
-      <point x="1066" y="166" type="line"/>
-      <point x="813" y="101" type="line"/>
-      <point x="767" y="241" type="line"/>
-      <point x="1024" y="302" type="line"/>
-    </contour>
-    <contour>
-      <point x="1437" y="496" type="line"/>
-      <point x="1291" y="327" type="line"/>
-      <point x="1160" y="419" type="line"/>
-      <point x="1304" y="582" type="line"/>
-    </contour>
-    <contour>
-      <point x="1419" y="1054" type="line"/>
-      <point x="1472" y="758" type="line"/>
-      <point x="1310" y="739" type="line"/>
-      <point x="1255" y="1031" type="line"/>
-    </contour>
-    <contour>
-      <point x="1045" y="1398" type="line"/>
-      <point x="1306" y="1238" type="line"/>
-      <point x="1210" y="1120" type="line"/>
-      <point x="958" y="1282" type="line"/>
-    </contour>
-    <contour>
-      <point x="587" y="1454" type="line"/>
-      <point x="822" y="1454" type="line"/>
-      <point x="822" y="1310" type="line"/>
-      <point x="594" y="1310" type="line"/>
-    </contour>
-    <contour>
-      <point x="187" y="1238" type="line"/>
-      <point x="393" y="1379" type="line"/>
-      <point x="494" y="1266" type="line"/>
-      <point x="288" y="1125" type="line"/>
+      <point x="70" y="517" type="line"/>
+      <point x="14" y="746" type="line"/>
+      <point x="176" y="773" type="line"/>
+      <point x="232" y="547" type="line"/>
     </contour>
     <contour>
       <point x="23" y="892" type="line"/>
@@ -52,10 +16,71 @@
       <point x="182" y="856" type="line"/>
     </contour>
     <contour>
-      <point x="70" y="517" type="line"/>
-      <point x="14" y="746" type="line"/>
-      <point x="176" y="773" type="line"/>
-      <point x="232" y="547" type="line"/>
+      <point x="187" y="1238" type="line"/>
+      <point x="393" y="1379" type="line"/>
+      <point x="494" y="1266" type="line"/>
+      <point x="288" y="1125" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="1454" type="line"/>
+      <point x="822" y="1454" type="line"/>
+      <point x="822" y="1310" type="line"/>
+      <point x="594" y="1310" type="line"/>
+    </contour>
+    <contour>
+      <point x="1045" y="1398" type="line"/>
+      <point x="1306" y="1238" type="line"/>
+      <point x="1210" y="1120" type="line"/>
+      <point x="958" y="1282" type="line"/>
+    </contour>
+    <contour>
+      <point x="1419" y="1054" type="line"/>
+      <point x="1472" y="758" type="line"/>
+      <point x="1310" y="739" type="line"/>
+      <point x="1255" y="1031" type="line"/>
+    </contour>
+    <contour>
+      <point x="1437" y="496" type="line"/>
+      <point x="1291" y="327" type="line"/>
+      <point x="1160" y="419" type="line"/>
+      <point x="1304" y="582" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066" y="166" type="line"/>
+      <point x="813" y="101" type="line"/>
+      <point x="767" y="241" type="line"/>
+      <point x="1024" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="138" type="line"/>
+      <point x="232" y="294" type="line"/>
+      <point x="327" y="416" type="line"/>
+      <point x="574" y="258" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1310</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>594</integer>
+            <key>width</key>
+            <integer>228</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

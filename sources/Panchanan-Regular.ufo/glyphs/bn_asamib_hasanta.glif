@@ -1,8 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_asamib_hasanta" format="2">
   <advance width="1295"/>
+  <anchor x="852" y="1238" name="abvm"/>
   <outline>
     <component base="bn_hasanta" xOffset="1249" yOffset="-108"/>
     <component base="bn_asamia_ra"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-519</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1220</integer>
+            <key>width</key>
+            <integer>232</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1232</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>856</integer>
+            <key>width</key>
+            <integer>209</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>959</integer>
+            <key>width</key>
+            <integer>462</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

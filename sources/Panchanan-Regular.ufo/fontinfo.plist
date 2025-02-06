@@ -11,7 +11,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>500</integer>
     <key>copyright</key>
     <string>Copyright 2025 Panchanan Project Authors (github.com/mitradranirban/panchanan)</string>
     <key>unitsPerEm</key>
@@ -44,7 +44,7 @@ http://openfontlicense.org</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 0.001</string>
+    <string>Version 0.500</string>
     <key>openTypeNameUniqueID</key>
     <string>Fontforge : Panchanan</string>
     <key>openTypeNameDescription</key>

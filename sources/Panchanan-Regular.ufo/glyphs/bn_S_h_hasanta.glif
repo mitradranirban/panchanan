@@ -1,8 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ssa_hasanta" format="2">
   <advance width="1264"/>
+  <anchor x="642" y="1244" name="abvm"/>
   <outline>
     <component base="bn_hasanta" xOffset="1256" yOffset="-116"/>
     <component base="bn_ssa"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-527</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1227</integer>
+            <key>width</key>
+            <integer>188</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1236</integer>
+            <key>width</key>
+            <integer>230</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>140</integer>
+            <key>width</key>
+            <integer>421</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>866</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>966</integer>
+            <key>width</key>
+            <integer>462</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

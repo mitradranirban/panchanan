@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ga_na" format="2">
   <advance width="1305"/>
-  <anchor x="1062" y="1224" name="abvm"/>
+  <anchor x="732" y="1218" name="abvm"/>
   <anchor x="1070" y="-80" name="blwm"/>
   <outline>
     <contour>

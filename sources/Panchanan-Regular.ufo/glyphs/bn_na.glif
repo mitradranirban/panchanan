@@ -2,7 +2,7 @@
 <glyph name="bn_na" format="2">
   <advance width="1031"/>
   <unicode hex="09A8"/>
-  <anchor x="834" y="1217" name="abvm"/>
+  <anchor x="600" y="1250" name="abvm"/>
   <anchor x="922" y="-31" name="blwm"/>
   <outline>
     <contour>

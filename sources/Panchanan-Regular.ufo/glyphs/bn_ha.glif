@@ -2,6 +2,8 @@
 <glyph name="bn_ha" format="2">
   <advance width="942"/>
   <unicode hex="09B9"/>
+  <anchor x="948" y="-208" name="blwm"/>
+  <anchor x="330" y="1214" name="abvm"/>
   <outline>
     <contour>
       <point x="-34" y="1415" type="curve" smooth="yes"/>
@@ -132,4 +134,41 @@
       <point x="-38" y="1405"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-171</integer>
+            <key>width</key>
+            <integer>174</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1235</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>255</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>628</integer>
+            <key>width</key>
+            <integer>192</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

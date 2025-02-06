@@ -1,8 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ga_hasanta" format="2">
   <advance width="1276"/>
+  <anchor x="810" y="1232" name="abvm"/>
   <outline>
     <component base="bn_hasanta" xOffset="1392" yOffset="-8"/>
     <component base="bn_ga"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-419</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1167</integer>
+            <key>width</key>
+            <integer>238</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1263</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>28</integer>
+            <key>width</key>
+            <integer>266</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>360</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>950</integer>
+            <key>width</key>
+            <integer>197</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>971</integer>
+            <key>width</key>
+            <integer>386</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1003</integer>
+            <key>width</key>
+            <integer>225</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1102</integer>
+            <key>width</key>
+            <integer>462</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ka_ra" format="2">
   <advance width="1498"/>
-  <anchor x="570" y="1215" name="abvm"/>
+  <anchor x="648" y="1218" name="abvm"/>
   <anchor x="1014" y="-285" name="blwm"/>
   <outline>
     <contour>
@@ -150,4 +150,65 @@
       <point x="-7" y="1344"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>10</integer>
+            <key>width</key>
+            <integer>199</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>479</integer>
+            <key>width</key>
+            <integer>188</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>853</integer>
+            <key>width</key>
+            <integer>184</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>979</integer>
+            <key>width</key>
+            <integer>443</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>12</integer>
+            <key>width</key>
+            <integer>456</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>733</integer>
+            <key>width</key>
+            <integer>456</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>745</integer>
+            <key>width</key>
+            <integer>168</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1302</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

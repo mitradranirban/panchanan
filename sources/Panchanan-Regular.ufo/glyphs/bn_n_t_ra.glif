@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_n_t_ra" format="2">
   <advance width="1214"/>
+  <anchor x="1059" y="-544" name="blwm"/>
+  <anchor x="734" y="1226" name="abvm"/>
   <outline>
     <contour>
       <point x="0" y="1339" type="curve" smooth="yes"/>
@@ -125,4 +127,53 @@
       <point x="0" y="1236"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-526</integer>
+            <key>width</key>
+            <integer>206</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1201</integer>
+            <key>width</key>
+            <integer>242</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1234</integer>
+            <key>width</key>
+            <integer>209</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>423</integer>
+            <key>width</key>
+            <integer>620</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>704</integer>
+            <key>width</key>
+            <integer>162</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>874</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

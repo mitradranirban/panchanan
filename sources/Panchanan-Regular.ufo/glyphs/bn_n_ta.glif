@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_n_ta" format="2">
   <advance width="1290"/>
-  <anchor x="903" y="1247" name="abvm"/>
+  <anchor x="679" y="1242" name="abvm"/>
   <anchor x="903" y="-229" name="blwm"/>
   <outline>
     <contour>

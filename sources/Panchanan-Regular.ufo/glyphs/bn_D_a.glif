@@ -2,7 +2,7 @@
 <glyph name="bn_dda" format="2">
   <advance width="1372"/>
   <unicode hex="09A1"/>
-  <anchor x="724" y="1229" name="abvm"/>
+  <anchor x="748" y="1222" name="abvm"/>
   <anchor x="812" y="-107" name="blwm"/>
   <outline>
     <contour>
@@ -197,6 +197,12 @@
             <integer>656</integer>
             <key>width</key>
             <integer>191</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1150</integer>
+            <key>width</key>
+            <integer>203</integer>
           </dict>
         </array>
       </dict>

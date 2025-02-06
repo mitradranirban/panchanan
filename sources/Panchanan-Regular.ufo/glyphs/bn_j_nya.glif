@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_j_nya" format="2">
   <advance width="1227"/>
-  <anchor x="656" y="1240" name="abvm"/>
+  <anchor x="668" y="1228" name="abvm"/>
   <anchor x="1136" y="-112" name="blwm"/>
   <outline>
     <contour>
@@ -173,4 +173,59 @@
       <point x="21" y="1458"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>354</integer>
+            <key>width</key>
+            <integer>184</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>356</integer>
+            <key>width</key>
+            <integer>212</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>968</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1150</integer>
+            <key>width</key>
+            <integer>316</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1262</integer>
+            <key>width</key>
+            <integer>217</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>457</integer>
+            <key>width</key>
+            <integer>152</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>718</integer>
+            <key>width</key>
+            <integer>308</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="bn_la" format="2">
   <advance width="1297"/>
   <unicode hex="09B2"/>
-  <anchor x="1006" y="1228" name="abvm"/>
+  <anchor x="690" y="1214" name="abvm"/>
   <anchor x="1030" y="-52" name="blwm"/>
   <outline>
     <contour>
@@ -124,4 +124,53 @@
       <point x="-18" y="1442"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>413</integer>
+            <key>width</key>
+            <integer>203</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>844</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1224</integer>
+            <key>width</key>
+            <integer>227</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>912</integer>
+            <key>width</key>
+            <integer>222</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>913</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

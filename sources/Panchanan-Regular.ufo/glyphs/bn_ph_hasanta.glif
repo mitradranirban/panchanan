@@ -1,8 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_pha_hasanta" format="2">
   <advance width="1557"/>
+  <anchor x="852" y="1238" name="abvm"/>
   <outline>
     <component base="bn_hasanta" xOffset="1507" yOffset="-172"/>
     <component base="bn_pha"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-583</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>441</integer>
+            <key>width</key>
+            <integer>224</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1256</integer>
+            <key>width</key>
+            <integer>158</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>339</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>156</integer>
+            <key>width</key>
+            <integer>330</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>355</integer>
+            <key>width</key>
+            <integer>159</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>762</integer>
+            <key>width</key>
+            <integer>213</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1010</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1217</integer>
+            <key>width</key>
+            <integer>462</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1281</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
