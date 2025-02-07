@@ -114,64 +114,6 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>859</integer>
-            <key>width</key>
-            <integer>155</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1009</integer>
-            <key>width</key>
-            <integer>124</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1246</integer>
-            <key>width</key>
-            <integer>164</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1282</integer>
-            <key>width</key>
-            <integer>143</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>237</integer>
-            <key>width</key>
-            <integer>229</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>389</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>618</integer>
-            <key>width</key>
-            <integer>134</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>656</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

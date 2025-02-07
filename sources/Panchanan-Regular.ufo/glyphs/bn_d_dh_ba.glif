@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_d_dh_ba" format="2">
+<glyph name="bn_da_dha_ba" format="2">
   <advance width="1253"/>
   <anchor x="643" y="1248" name="abvm"/>
   <anchor x="1072" y="-339" name="blwm"/>
@@ -170,71 +170,4 @@
       <point x="886" y="42"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>564</integer>
-            <key>width</key>
-            <integer>148</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>873</integer>
-            <key>width</key>
-            <integer>211</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1193</integer>
-            <key>width</key>
-            <integer>211</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1231</integer>
-            <key>width</key>
-            <integer>198</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-98</integer>
-            <key>width</key>
-            <integer>408</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>476</integer>
-            <key>width</key>
-            <integer>246</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>542</integer>
-            <key>width</key>
-            <integer>215</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>930</integer>
-            <key>width</key>
-            <integer>124</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>952</integer>
-            <key>width</key>
-            <integer>82</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

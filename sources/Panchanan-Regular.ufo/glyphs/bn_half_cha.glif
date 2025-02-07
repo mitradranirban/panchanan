@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_half_cha" format="2">
+<glyph name="bn_half_ca" format="2">
   <advance width="752"/>
   <outline>
     <contour>
@@ -72,47 +72,4 @@
       <point x="439" y="944"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>564</integer>
-            <key>width</key>
-            <integer>218</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1218</integer>
-            <key>width</key>
-            <integer>183</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1233</integer>
-            <key>width</key>
-            <integer>183</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>109</integer>
-            <key>width</key>
-            <integer>138</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>456</integer>
-            <key>width</key>
-            <integer>204</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

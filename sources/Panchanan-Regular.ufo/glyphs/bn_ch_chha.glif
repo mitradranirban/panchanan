@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_ch_chha" format="2">
+<glyph name="bn_ca_cha" format="2">
   <advance width="2159"/>
   <anchor x="964" y="1239" name="abvm"/>
   <anchor x="2030" y="-216" name="blwm"/>
@@ -235,89 +235,4 @@
       <point x="988" y="944"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>172</integer>
-            <key>width</key>
-            <integer>255</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>565</integer>
-            <key>width</key>
-            <integer>224</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>805</integer>
-            <key>width</key>
-            <integer>186</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1250</integer>
-            <key>width</key>
-            <integer>182</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1267</integer>
-            <key>width</key>
-            <integer>228</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>80</integer>
-            <key>width</key>
-            <integer>137</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>424</integer>
-            <key>width</key>
-            <integer>205</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>804</integer>
-            <key>width</key>
-            <integer>121</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>832</integer>
-            <key>width</key>
-            <integer>184</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1304</integer>
-            <key>width</key>
-            <integer>237</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1485</integer>
-            <key>width</key>
-            <integer>300</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1749</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
