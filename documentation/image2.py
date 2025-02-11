@@ -21,10 +21,10 @@ FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
 
-LINE_ONE = "বোধপ্রকাশং শব্দশাস্ত্রং "
-LINE_TWO = "ফিরিঙ্গিনামুপকারার্থং"
-LINE_THREE = "ক্রিয়তে "
-LINE_FOUR = "হালেদঙ্গ্রেজী "
+LINE_ONE = "অআইঈউঊএঐঋওঔংঃঁ"
+LINE_TWO = "কখগঘঙচছজঝঞটঠডঢণ"
+LINE_THREE = "তথদধনপফবভমযরল"
+LINE_FOUR = "শষসহড়ঢ়য়০১২৩৪৫৬৭৮৯ "
 BIG_TEXT_FONT_SIZE = 160
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.45
