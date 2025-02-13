@@ -3,7 +3,7 @@
   <advance width="1254"/>
   <unicode hex="099A"/>
   <anchor x="648" y="1230" name="abvm"/>
-  <anchor x="410" y="-40" name="blwm"/>
+  <anchor x="532" y="-55" name="blwm"/>
   <outline>
     <contour>
       <point x="1122" y="1465" type="curve" smooth="yes"/>

@@ -2,7 +2,7 @@
 <glyph name="bn_nna_ra" format="2">
   <advance width="1201"/>
   <anchor x="981" y="1228" name="abvm"/>
-  <anchor x="1194" y="-101" name="blwm"/>
+  <anchor x="1283" y="-737" name="blwm"/>
   <outline>
     <contour>
       <point x="1109" y="-266" type="curve" smooth="yes"/>
