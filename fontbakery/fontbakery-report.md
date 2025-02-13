@@ -1394,15 +1394,11 @@ bn_chandrabindu (U+0981)</p>
 
 - bn_half_asamese_va
 
-- bn_ma_ma.alt
-
 - bn_n_ma
 
 - bn_ng_ga.alt
 
 - bn_ng_ka.alt
-
-- bn_nga_kga.alt
 
 - bn_post_ukaar
 
@@ -1798,19 +1794,19 @@ bn_chandrabindu (U+0981)</p>
 <tbody>
 <tr>
 <td align="left">Dehinted Size</td>
-<td align="right">166.0kb</td>
+<td align="right">165.9kb</td>
 </tr>
 <tr>
 <td align="left">Hinted Size</td>
-<td align="right">303.3kb</td>
+<td align="right">303.7kb</td>
 </tr>
 <tr>
 <td align="left">Increase</td>
-<td align="right">137.3kb</td>
+<td align="right">137.9kb</td>
 </tr>
 <tr>
 <td align="left">Change</td>
-<td align="right">82.7 %</td>
+<td align="right">83.1 %</td>
 </tr>
 </tbody>
 </table>
